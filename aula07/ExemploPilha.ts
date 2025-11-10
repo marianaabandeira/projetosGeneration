@@ -1,6 +1,6 @@
 import { Stack } from "./Stack";
 
-const pilha = new Stack<string>();
+const pilha = new Stack<string>(); // Criando uma pilha de strings
 
 pilha.push("Prato Verde");
 pilha.push("Prato Azul");
